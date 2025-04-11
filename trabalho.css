@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.title {
+    color: #ff4545;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: x-large;
+}
+
+button {
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: blue;
+    color: yellow;
+}
+
+ul {
+    list-style-type: square;
+    text-align: left;
+    display: inline-block;
+    margin-bottom: 33px;
+}
+
+.imagemmusculação {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+li {
+    margin-bottom: 15px;
+    font-size: 20px; 
+    
+}#mensagem {
+    color: #000000;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
